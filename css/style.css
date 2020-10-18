@@ -1161,9 +1161,9 @@ a {
     transition: .3s all ease; }
   .image-wrap-2 img {
     /* filter: url(filters.svg#grayscale); Firefox 3.5+ */
-    filter: gray;
+    filter: none;
     /* IE5+ */
-    -webkit-filter: grayscale(1);
+    -webkit-filter: grayscale(0);
     /* Webkit Nightlies & Chrome Canary */
     -webkit-transition: all .1s ease-in-out; }
   .image-wrap-2:hover img {
@@ -1171,7 +1171,7 @@ a {
     -webkit-filter: grayscale(0);
     -webkit-transform: scale(1.01); }
   .image-wrap-2 .image-info {
-    text-align: center;
+    text-align: justify-all;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1182,7 +1182,7 @@ a {
     .image-wrap-2 .image-info h2 {
       color: #fff; }
   .image-wrap-2:hover:before {
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0);
     content: ""; }
 
 .swiper-button-prev,
