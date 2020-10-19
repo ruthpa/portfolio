@@ -14,25 +14,25 @@
                   <router-link to="/">Home</router-link>
                 </li>
                 <li class="has-children">
-                  <a href="single.html">Projects</a>
+                  <a href="">Projects</a>
                   <ul class="dropdown">
                     <li class="has-children">
-                      <a href="#">Safe Heaven</a>
+                      <a href="">Safe Heaven</a>
                       <ul class="dropdown">
-                        <li><a href="html/projects/safe_heaven.html#delia">Blue - Delia</a></li>
-                        <li><a href="html/projects/safe_heaven.html#juanita">Yellow - Juanita</a></li>
-                        <li><a href="html/projects/safe_heaven.html#sabel">Green - Sabel</a></li>
-                        <li><a href="html/projects/safe_heaven.html#maribel">Purple - Maribel</a></li>
+                        <li><router-link to="/projects/safe_heaven">Blue - Delia</router-link></li>
+                        <li><router-link to="/projects/safe_heaven">Yellow - Juanita</router-link></li>
+                        <li><router-link to="/projects/safe_heaven">Green - Sabel</router-link></li>
+                        <li><router-link to="/projects/safe_heaven">Purple - Maribel</router-link></li>
                       </ul>
                     </li>
-                    <li><a href="html/projects/panteras_negras.html">Panteras Negras</a></li>
-                    <li><a href="html/projects/moments_of_suspension.html">Moments Of Suspension</a></li>
+                    <li><router-link to="/projects/panteras_negras">Panteras Negras</router-link></li>
+                    <li><router-link to="/projects/moments_of_suspension">Moments Of Suspension</router-link></li>
                   </ul>
                 </li>
                 <li class="has-children">
-                  <a href="html/commissioned/dior.html">Commissioned Work</a>
+                  <a href="">Commissioned Work</a>
                   <ul class="dropdown">
-                    <li><a href="html/commissioned/dior.html">Dior</a></li>
+                    <li><router-link to="commissioned/dior">Dior</router-link></li>
                   </ul>
                 </li>
                 <li><a href="#">Exhibitions</a></li>

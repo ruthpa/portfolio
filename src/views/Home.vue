@@ -20,11 +20,11 @@ export default {
   data () {
     return {
       images: {
-        'home_website_0001.jpg': '/projects/safe_heaven#delia',
-        'home_website_0002.jpg': '/projects/safe_heaven#juanita',
-        'home_website_0003.jpg': '/projects/safe_heaven#juanita',
-        'home_website_0004.jpg': '/projects/safe_heaven#sabel',
-        'home_website_0005.jpg': '/projects/safe_heaven#maribel',
+        'home_website_0001.jpg': '/projects/safe_heaven',
+        'home_website_0002.jpg': '/projects/safe_heaven',
+        'home_website_0003.jpg': '/projects/safe_heaven',
+        'home_website_0004.jpg': '/projects/safe_heaven',
+        'home_website_0005.jpg': '/projects/safe_heaven',
         'home_website_0006.jpg': '/projects/panteras_negras',
         'home_website_0007.jpg': '/projects/moments_of_suspension',
         'home_website_0008.jpg': '/commissioned/dior',
