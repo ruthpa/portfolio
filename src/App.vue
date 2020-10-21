@@ -32,7 +32,7 @@
                 <li class="has-children">
                   <a href="">Commissioned Work</a>
                   <ul class="dropdown">
-                    <li><router-link to="commissioned/dior">Dior</router-link></li>
+                    <li><router-link to="/commissioned/dior">Dior</router-link></li>
                   </ul>
                 </li>
                 <li><a href="#">Exhibitions</a></li>

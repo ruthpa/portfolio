@@ -48,11 +48,7 @@ export default {
             { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0010.jpg', bigImageName: 'safeheaven_green_0010.jpg', text: 'text' },
             { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0011.jpg', bigImageName: 'safeheaven_green_0011.jpg', text: 'text' },
             { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0012.jpg', bigImageName: 'safeheaven_green_0012.jpg', text: 'text' },
-            { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0013.jpg', bigImageName: 'safeheaven_green_0013.jpg', text: 'text' },
-            { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0014.jpg', bigImageName: 'safeheaven_green_0014.jpg', text: 'text' },
-            { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0015.jpg', bigImageName: 'safeheaven_green_0015.jpg', text: 'text' },
-            { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0016.jpg', bigImageName: 'safeheaven_green_0016.jpg', text: 'text' },
-            { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0017.jpg', bigImageName: 'safeheaven_green_0017.jpg', text: 'text' }
+            { alt: 'safe-heaven-green', imageName: 'safeheaven_green_0013.jpg', bigImageName: 'safeheaven_green_0013.jpg', text: 'text' }
           ]
         },
         purple: {
@@ -66,8 +62,7 @@ export default {
             { alt: 'safe-heaven-purple', imageName: 'safeheaven_purple_0004.jpg', bigImageName: 'safeheaven_purple_0004.jpg', text: 'text' },
             { alt: 'safe-heaven-purple', imageName: 'safeheaven_purple_0005.jpg', bigImageName: 'safeheaven_purple_0005.jpg', text: 'text' },
             { alt: 'safe-heaven-purple', imageName: 'safeheaven_purple_0006.jpg', bigImageName: 'safeheaven_purple_0006.jpg', text: 'text' },
-            { alt: 'safe-heaven-purple', imageName: 'safeheaven_purple_0007.jpg', bigImageName: 'safeheaven_purple_0007.jpg', text: 'text' },
-            { alt: 'safe-heaven-purple', imageName: 'safeheaven_purple_0008.jpg', bigImageName: 'safeheaven_purple_0008.jpg', text: 'text' }
+            { alt: 'safe-heaven-purple', imageName: 'safeheaven_purple_0007.jpg', bigImageName: 'safeheaven_purple_0007.jpg', text: 'text' }
           ]
         },
         yellow: {
@@ -88,7 +83,9 @@ export default {
             { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0011.jpg', bigImageName: 'safeheaven_yellow_0011.jpg', text: 'text' },
             { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0012.jpg', bigImageName: 'safeheaven_yellow_0012.jpg', text: 'text' },
             { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0013.jpg', bigImageName: 'safeheaven_yellow_0013.jpg', text: 'text' },
-            { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0014.jpg', bigImageName: 'safeheaven_yellow_0014.jpg', text: 'text' }
+            { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0014.jpg', bigImageName: 'safeheaven_yellow_0014.jpg', text: 'text' },
+            { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0014.jpg', bigImageName: 'safeheaven_yellow_0014.jpg', text: 'text' },
+            { alt: 'safe-heaven-yellow', imageName: 'safeheaven_yellow_0016.jpg', bigImageName: 'safeheaven_yellow_0015.jpg', text: 'text' }
           ]
         }
       }

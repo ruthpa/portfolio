@@ -25,10 +25,13 @@ export default {
         'home_website_0003.jpg': '/projects/safe_heaven',
         'home_website_0004.jpg': '/projects/safe_heaven',
         'home_website_0005.jpg': '/projects/safe_heaven',
-        'home_website_0006.jpg': '/projects/panteras_negras',
-        'home_website_0007.jpg': '/projects/moments_of_suspension',
-        'home_website_0008.jpg': '/commissioned/dior',
-        'home_website_0009.jpg': '/commissioned/dior'
+        'home_website_0006.jpg': '/projects/safe_heaven',
+        'home_website_0007.jpg': '/projects/safe_heaven',
+        'home_website_0008.jpg': '/projects/safe_heaven',
+        'home_website_0009.jpg': '/projects/safe_heaven',
+        'home_website_0010.jpg': '/commissioned/dior',
+        'home_website_0011.jpg': '/commissioned/dior',
+        'home_website_0012.jpg': '/commissioned/dior'
       }
     }
   }
